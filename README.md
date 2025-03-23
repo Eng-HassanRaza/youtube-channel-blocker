@@ -48,7 +48,7 @@ Follow these simple steps to install this Chrome extension:
 1. **Clone or Download the repository**
 
    ```bash
-   git clone https://github.com/your-username/youtube-channel-blocker.git
+   git clone https://github.com/Eng-HassanRaza/youtube-channel-blocker.git
    ```
 
    or manually download and unzip the files.
