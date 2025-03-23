@@ -1,0 +1,22 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node.js dependencies or build files (if future development)
+node_modules/
+dist/
+
+# Chrome extension packaging files
+*.zip
+*.crx
+*.pem
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# Miscellaneous temporary files
+*.tmp
